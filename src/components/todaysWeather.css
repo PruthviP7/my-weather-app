@@ -1,0 +1,23 @@
+.todays-weather-card-wrapper {
+    display: flex;
+    flex-direction: row;
+    background: #003339;
+    border-radius: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 48px 16px;
+}
+
+.twcw-item-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 8px;
+    color: white;
+} 
+
+.tiw-content {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    text-align: center;
+}

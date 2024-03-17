@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: Abhaya Libre, serif !important;
+    /* Prevent horizontal scrollbar */
+}
+
+.main-container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.mc-header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px 0;
+}
+
+.ciw-info-img-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.city-info-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.city-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
