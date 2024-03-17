@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-weather-app/static/css/main.53f079c2.css",
+    "main.js": "/my-weather-app/static/js/main.2d371858.js",
+    "static/js/453.1a2ae356.chunk.js": "/my-weather-app/static/js/453.1a2ae356.chunk.js",
+    "static/media/image1.jpg": "/my-weather-app/static/media/image1.da2d0abedd913736035b.jpg",
+    "static/media/image3.jpg": "/my-weather-app/static/media/image3.73c24c6596428cbc6083.jpg",
+    "static/media/image4.jpg": "/my-weather-app/static/media/image4.fb3035d3185fa6480fbb.jpg",
+    "static/media/image5.jpg": "/my-weather-app/static/media/image5.c6a9101171f61f915fd3.jpg",
+    "static/media/image2.jpg": "/my-weather-app/static/media/image2.d87a221034601789261c.jpg",
+    "static/media/current_location.svg": "/my-weather-app/static/media/current_location.01fce41c3f29189d8245917fb4db5c04.svg",
+    "static/media/live_icon.svg": "/my-weather-app/static/media/live_icon.1e9832d160779e6ca6782e03a598a024.svg",
+    "index.html": "/my-weather-app/index.html",
+    "static/media/search_icon.svg": "/my-weather-app/static/media/search_icon.659ada8577ebdf6c8461f0f2ef592bab.svg",
+    "static/media/close_button.svg": "/my-weather-app/static/media/close_button.72e77fbf9587fd9e36e561e1bd8e808f.svg",
+    "static/media/hamberg_icon.svg": "/my-weather-app/static/media/hamberg_icon.a873234e64efef2df6352557be5b716d.svg",
+    "main.53f079c2.css.map": "/my-weather-app/static/css/main.53f079c2.css.map",
+    "main.2d371858.js.map": "/my-weather-app/static/js/main.2d371858.js.map",
+    "453.1a2ae356.chunk.js.map": "/my-weather-app/static/js/453.1a2ae356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f079c2.css",
+    "static/js/main.2d371858.js"
+  ]
+}
